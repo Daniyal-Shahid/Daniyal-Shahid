@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: f1-winners , urdu-language-learning and apex<br>🌱 I’m currently learning: Python, React-Vite, TypeScript, Express js and PostgreSQL<br>💬 Ask me about: F1<br>⚡ Fun fact: i love f1 and lewis hamilton
+🔭 I’m currently working on: f1-winners , urdu-language-learning and apex. Unfortunetly apex cannot be a public repo yet as I believe its a unique idea. Once a stable version 1.0 is ready, I will maybe make the repo public.<br>🌱 I’m currently learning: Python, React-Vite, TypeScript, Express js and PostgreSQL<br>💬 Ask me about: F1<br>⚡ Fun fact: i love f1 and lewis hamilton
 
 
 # 💻 Tech Stack:
